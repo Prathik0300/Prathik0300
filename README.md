@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning blockchain and more about DAPP to try my part to improve decentralization.
 
-- 💞️ I’m looking to collaborate on opportunities involving Full stack development/Data analysis.
+- 💞️ I’m looking to collaborate on opportunities involving Full stack development.
 
 - 📫 You can reach me via:
      - Email : [prathik0300@gmail.com](mailto:prathik0300@gmail.com)
