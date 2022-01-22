@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Prathik0300. An enthusiastic self-starter with a strong hold on communication and leadership skills. Having a good Technical knowledge, a stronghold on different languages/Frameworks like React.js, HTML, CSS, JavaScript, PHP, SQL, and Node.js, and possess the required skills to help the organization achieve its goal and objectives.
+- 👋 Hi, I’m @Prathik0300. An enthusiastic self-starter with a strong hold on communication and leadership skills. Having a good Technical knowledge, a stronghold on different languages/Frameworks like React.js,Python HTML, CSS, JavaScript, PHP, SQL, and Node.js, and possess the required skills to help the organization achieve its goal and objectives.
 
-- 👀 I’m interested in Full stack Development and Data analysis. My hobby is to read articles about the blockchain world.
+- 👀 I’m interested in Full stack Development. My hobby is to read articles about the blockchain world.
 
 - 🌱 I’m currently learning blockchain and more about DAPP to try my part to improve decentralization.
 
